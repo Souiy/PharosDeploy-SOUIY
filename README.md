@@ -34,9 +34,7 @@ cd PharosDeploy-SOUIY
 ```
 npm install
 
- atau
-
-yarn install
+npm install fp-ts
 ```
 
 ---
